@@ -1,4 +1,4 @@
-
+//https://github.com/adidax/dht11
 #include <dht11.h>
 #include <ESP8266WiFi.h>
 
